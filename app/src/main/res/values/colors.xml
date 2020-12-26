@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/sapphire</color>
+    <color name="colorPrimaryDark">@color/violetRed</color>
+    <color name="colorAccent">@color/violetRed</color>
+    <color name="violetRed">#eb1da5</color>
+    <color name="sapphire">#032541</color>
+
+    <color name="separatorColor">#dcdcdc</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="dialog_bg">#FAFAFA</color>
+    <color name="border">#e6e8e9</color>
+    <color name="dar_sky_blue">#3893d9</color>
+    <color name="widget_title">#3E4246</color>
+    <color name="notif_bg">#ff6339</color>
+    <color name="light_gray">#dddddd</color>
+    <color name="bg_default">#efefef</color>
+    <color name="sea_blue">#d2ecfa</color>
+    <color name="battleship_grey">#777a7f</color>
+    <color name="pale_olive_green">#acd26f</color>
+    <color name="dark_mint">#4cba7e</color>
+    <color name="background_grey">#f5f5f5</color>
+    <color name="dark_grey">#e8e8e8</color>
+
+    <color name="icon_toolbar_dark">#777a7f</color>
+
+    <color name="pinkish_orange">#ff6339</color>
+
+    <color name="confirmed">#4CBA7E</color>
+    <color name="pending">#FDE723</color>
+    <color name="canceled">#FF6339</color>
+    <color name="cool_grey">#b1b2b5</color>
+    <color name="line">#ededed</color>
+    <color name="bg_color">#c8c7cc</color>
+    <color name="sky_blue">#f1f4f7</color>
+
+    <color name="main_background">#f4f4f4</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="bg_blue">#FFF9FBFE</color>
+
+    <color name="black">#000000</color>
+    <color name="black_rock">#272838</color>
+    <color name="brand_blue">#3893d9</color>
+    <color name="pattens_blue">#dae6f0</color>
+    <color name="green_emerald">#4cba7e</color>
+    <color name="blue_haze">#b0b2cb</color>
+    <color name="gainsboro">#e0e0e0</color>
+    <color name="alice_blue">#f7fafc</color>
+    <color name="lightning_yellow">#ffa231</color>
+    <color name="rose">#ff609c</color>
+    <color name="alizarin_red">#e63241</color>
+    <color name="sunglow">#ffc72d</color>
+    <color name="grey_blue">#FFB0B2CB</color>
+    <color name="text_red">#E63241</color>
+
+    <color name="text_color_grey_blue">#989AB7</color>
+
+    <color name="tangaroa">#121f26</color>
+    <color name="cerulean_blue">#2b6ed2</color>
+    <color name="yellow_sea">#F69833</color>
+    <color name="supernova">#FDBD39</color>
+    <color name="mischka">#A5ADB5</color>
+    <color name="dim_gray">#666666</color>
+    <color name="black_pearl">#20282E</color>
+    <color name="iron">#cccfd1</color>
+    <color name="lynch">#697684</color>
+    <color name="big_stone">#333f48</color>
+    <color name="pelorous">#2980B9</color>
+    <color name="navy_blue">#0081c6</color>
+    <color name="white_smoke">#f3f3f3</color>
+    <color name="dark_gray">#a0a0a0</color>
+    <color name="fun_blue">#315390</color>
+    <color name="echo_blue">#a2b1cd</color>
+    <color name="solitude">#d6dde9</color>
+    <color name="light_grey">#d9d6d8</color>
+    <color name="irish_blue">#00beb3</color>
+
+</resources>

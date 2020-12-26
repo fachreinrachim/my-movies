@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="empty_data">Data is empty</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="explore">Explore</string>
+    <string name="explore_genres">Explore Genres</string>
+    <string name="genres">Movies Genres</string>
+    <string name="my_movies">My Movies</string>
+    <string name="popularity">Popularity</string>
+    <string name="released_date">Released Date</string>
+    <string name="movies_detail">Movie Details</string>
+    <string name="overview">Overview</string>
+    <string name="by">By</string>
+    <string name="rating">Rating</string>
+    <string name="created">Created at</string>
+    <string name="review">Reviews</string>
+    <string name="see_all">See all</string>
+    <string name="see_more">See more</string>
+</resources>
